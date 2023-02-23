@@ -3,9 +3,10 @@ Hey, I'm Sunny!!! I'm a junior at Rutgers majoring in Computer Science. I'm inte
 
 ### Completed
 ##### [:butterfly::sunny:react-sunny:sunny::hatched_chick:](https://github.com/sunnymakespromises/react-sunny)
+##### [Premier League Belt :soccer:](#)
 
 ### Currently working on
-##### [CFB MacGuffin :football:](#)
+
 <!---
 sunnyfeelsfine/sunnyfeelsfine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
