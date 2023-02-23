@@ -1,5 +1,5 @@
 # :sunny: Sunny Makes Promises :sunny:
-Hey, I'm Sunny!!! I'm a junior at Rutgers majoring in Computer Science. I'm interested in a lot of stuff from web design, software design, data analysis, video game development, machine learning, and *tons* of other stuff I probably forgot about. This account will probably just be used to keep all my random personal projects about stuff that interests me lmao :sob:
+Hey, I'm Sunny!!! I'm a junior at Rutgers majoring in Computer Science. I'm interested in a lot of stuff from web design, software design, data analysis, video game development, machine learning, and *tons* of other stuff I probably forgot about. I do a lot of projects but I rarely ever finish them so I want to hold myself accountable with a public github account lmao :sob:
 
 ### Completed
 ##### [react-sunny:sunny:](https://sunnymakespromises.com/react-sunny)
