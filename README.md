@@ -3,7 +3,7 @@ hiiii, i'm sunny!!! i'm a junior at Rutgers majoring in computer science. i'm in
 
 ### completed
 ##### [react-sunny:sunny:](https://sunnymakespromises.com/react-sunny)
-##### [premier league belt :soccer:](https://eplb.xyz)
+##### [premier league belt :soccer:](https://www.eplb.xyz)
 
 ### currently working on
 
